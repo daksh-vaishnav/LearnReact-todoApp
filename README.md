@@ -1,3 +1,4 @@
+**Find project detail by scrolling down - @daksh-vaishnav**
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# let's talk about my project
+its my first react app. And try to learn and implimenting those copncepts
+i used normal [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/ "Bootstrap 4")
+till now (_27-may-2021_) so far i learnt function based component,useState,props,defining props defualt value and types,use of map,filter methods, use of conditional statement (ternary operator) in UI
+so far i impliment showing todo,mark as done,undone, remove and add component for adding todo (just UI, still not adding existing todos)
